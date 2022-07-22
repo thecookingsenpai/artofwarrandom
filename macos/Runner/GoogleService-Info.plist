@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>199836880839-dnulqk1g2maisvuolsuc27ch0lbk1urj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.199836880839-dnulqk1g2maisvuolsuc27ch0lbk1urj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>199836880839-1svq0gsff3i8nqn5afecn5a9nbnc98bk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBe7dh5npWOR7WSpRKJt0lOaJHBr9e-yXA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>199836880839</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tcsenpai.theartofwarrandomquotes</string>
+	<key>PROJECT_ID</key>
+	<string>art-of-war-random-quotes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>art-of-war-random-quotes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:199836880839:ios:59c7a0022981081e4413e2</string>
+</dict>
+</plist>

@@ -5,14 +5,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class MyQuotesWidget extends StatefulWidget {
-  const MyQuotesWidget({Key key}) : super(key: key);
+class SssplashhhhhWidget extends StatefulWidget {
+  const SssplashhhhhWidget({Key? key}) : super(key: key);
 
   @override
-  _MyQuotesWidgetState createState() => _MyQuotesWidgetState();
+  _SssplashhhhhWidgetState createState() => _SssplashhhhhWidgetState();
 }
 
-class _MyQuotesWidgetState extends State<MyQuotesWidget> {
+class _SssplashhhhhWidgetState extends State<SssplashhhhhWidget> {
   final scaffoldKey = GlobalKey<ScaffoldState>();
 
   @override

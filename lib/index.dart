@@ -1,3 +1,5 @@
 // Export pages
+export 'sssplashhhhh/sssplashhhhh_widget.dart' show SssplashhhhhWidget;
 export 'home/home_widget.dart' show HomeWidget;
-export 'my_quotes/my_quotes_widget.dart' show MyQuotesWidget;
+export 'login/login_widget.dart' show LoginWidget;
+export 'myquotes_page/myquotes_page_widget.dart' show MyquotesPageWidget;

@@ -3,11 +3,11 @@ import 'package:rxdart/rxdart.dart';
 
 class TheArtOfWarRandomQuotesFirebaseUser {
   TheArtOfWarRandomQuotesFirebaseUser(this.user);
-  User user;
+  User? user;
   bool get loggedIn => user != null;
 }
 
-TheArtOfWarRandomQuotesFirebaseUser currentUser;
+TheArtOfWarRandomQuotesFirebaseUser? currentUser;
 bool get loggedIn => currentUser?.loggedIn ?? false;
 Stream<TheArtOfWarRandomQuotesFirebaseUser>
     theArtOfWarRandomQuotesFirebaseUserStream() => FirebaseAuth.instance
