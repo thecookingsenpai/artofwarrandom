@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "199836880839",
+    "project_id": "art-of-war-random-quotes",
+    "storage_bucket": "art-of-war-random-quotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199836880839:android:f6dc365427ac2b064413e2",
+        "android_client_info": {
+          "package_name": "com.tcsenpai.theartofwarrandomquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199836880839-1svq0gsff3i8nqn5afecn5a9nbnc98bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tcsenpai.theartofwarrandomquotes",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "199836880839-pfmiub2gf45f6rtdcn7pn5c0ruu1pgud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6OzzBJrkNcYm9qYl4Mi6kd24T7WSs3o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199836880839-pfmiub2gf45f6rtdcn7pn5c0ruu1pgud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199836880839-dnulqk1g2maisvuolsuc27ch0lbk1urj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tcsenpai.theartofwarrandomquotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
